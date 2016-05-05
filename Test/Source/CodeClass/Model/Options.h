@@ -22,6 +22,6 @@
 @property (nonatomic,strong) NSString *note;//备注
 @property (nonatomic,strong) NSString *sendTime;//发布时间 yyyy-mm-dd hh:mm:ss
 @property (nonatomic,strong) NSString *carState;//车辆状态
-@property (nonatomic,strong) NSString *objectId;//车源ID
+@property (nonatomic,strong) NSString *objectId;//车辆ID
 
 @end
